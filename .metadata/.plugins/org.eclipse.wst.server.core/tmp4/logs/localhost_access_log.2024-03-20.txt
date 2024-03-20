@@ -1,9 +1,0 @@
-127.0.0.1 - - [20/Mar/2024:03:55:34 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:55:34 +0530] "GET /SpringRevision/ HTTP/1.1" 404 770
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:55:35 +0530] "GET /favicon.ico HTTP/1.1" 404 762
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:55:39 +0530] "GET /SpringRevision/index HTTP/1.1" 404 775
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:55:45 +0530] "GET /SpringRevision/web HTTP/1.1" 200 35
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:57:30 +0530] "GET /SpringRevision/WEB-INF/index.jsp HTTP/1.1" 404 682
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:03:57:37 +0530] "GET /SpringRevision/index.jsp HTTP/1.1" 404 739
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:04:00:51 +0530] "GET /SpringRevision/ HTTP/1.1" 404 770
-0:0:0:0:0:0:0:1 - - [20/Mar/2024:04:00:59 +0530] "GET /SpringRevision/web1 HTTP/1.1" 404 774
